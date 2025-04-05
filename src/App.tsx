@@ -1,16 +1,13 @@
-// import Hero from "./Agrosurance/Hero"
-// import Products from "./Agrosurance/Products"
-
 import NavbarWithContent from "./Agrosurance/NavbarWithContent"
 
-
+// function loadBlockChainData(){
+// const provider=new BrowserProvider(window.ethereum);
+// }
 
 const App = () => {
   return   (
     <>
 <NavbarWithContent/>
-{/* <Hero/> */}
-{/* <Products/> */}
 </>
   )
 }
